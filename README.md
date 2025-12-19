@@ -33,7 +33,7 @@
 | **实盘模拟** | 4.5 小时 | **-70.46%** | 系统性崩盘 (Systemic Collapse) |
 
 **图 1: 资产清算级联 (The Liquidation Cascade)**
-![资金衰减曲线](paper/figures/fig1_results.png)
+![资金衰减曲线](galaxy_empire_results.png)
 *智能体名义权益（绿色虚线）与系统实际流动性（红色实线）的背离，揭示了“软预算约束”导致的系统性亏损。*
 
 
