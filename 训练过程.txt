@@ -1,0 +1,79 @@
+D:\pyxm\python.exe E:\pyxm\qhuaxxlh\ai_studio_code.py 
+?? 启动银河帝国 V78 - 最终稳定版...
+SYS: ?? 下载范围: 2025-11-19 22:00:43.987000 至 Now
+SYS: ?? dogeusdt: Ready
+SYS: ?? adausdt: Ready
+SYS: ?? bnbusdt: Ready
+SYS: ?? avaxusdt: Ready
+SYS: ?? maticusdt: Ready
+SYS: ?? xrpusdt: Ready
+SYS: ?? ethusdt: Ready
+SYS: ?? btcusdt: Ready
+SYS: ?? solusdt: Ready
+SYS: ?? dotusdt: Ready
+SYS: ?? bchusdt: Ready
+SYS: ?? trxusdt: Ready
+SYS: ?? linkusdt: Ready
+SYS: ?? ltcusdt: Ready
+SYS: ?? shibusdt: Ready
+SYS: ?? nearusdt: Ready
+SYS: ?? pepeusdt: Ready
+SYS: ?? uniusdt: Ready
+SYS: ?? filusdt: Ready
+SYS: ?? atomusdt: Ready
+SYS: 正在构建训练数据...
+SYS: 正在评估本地已保存模型...
+SYS: 本地模型评估结果 APY: 0.0%
+SYS: 本地模型未达标，开始强化训练...
+SYS: Ep1: Loss=0.9265 APY=0.0%
+SYS: Ep2: Loss=0.9240 APY=0.0%
+SYS: Ep3: Loss=0.9207 APY=0.0%
+SYS: Ep4: Loss=0.9223 APY=0.0%
+SYS: Ep5: Loss=0.9219 APY=0.0%
+SYS: Ep6: Loss=0.9213 APY=0.0%
+SYS: Ep7: Loss=0.9182 APY=0.0%
+SYS: Ep8: Loss=0.9151 APY=0.0%
+SYS: Ep9: Loss=0.9065 APY=300.0%
+SYS: ? 训练考核通过! APY 300.0%
+SYS: ?? 启动门禁：正在下载最近 30 分钟实盘数据...
+SYS: ?? 交易所数据流已连接
+SYS: ? 数据同步完成，开始校准训练...
+SYS: 校准完成 (Loss: 0.6099)
+SYS: ?? 预热结束，交易系统正式接管
+SYS: ?? 系统正式上线
+SYS: ?? 预热缓冲结束，交易引擎启动
+SYS: 数据波动过小，跳过本次微调
+SYS: WS重连: sent 1011 (internal error) keepalive ping timeout; no close frame received
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: WS重连: timed out during opening handshake
+SYS: ?? 交易所数据流已连接
+SYS: 数据波动过小，跳过本次微调
+SYS: 数据波动过小，跳过本次微调
+SYS: WS重连: sent 1011 (internal error) keepalive ping timeout; no close frame received
+SYS: ?? 交易所数据流已连接
+SYS: WS重连: sent 1011 (internal error) keepalive ping timeout; no close frame received
+SYS: ?? 交易所数据流已连接
+SYS: WS重连: no close frame received or sent
+SYS: ?? 交易所数据流已连接
+SYS: 数据波动过小，跳过本次微调
+
+经济数据的日志，帮我设计出精美的图来，注意这个间隔，要平滑的曲线。可以分成几个小图展示数据。
